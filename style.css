@@ -1,4 +1,7 @@
 /*fonts start*/
+html {
+  scroll-behavior: smooth;
+}
 @font-face {
 	src: url(webfonts/Brandon_light.otf);
 	font-family: Brandon_light;
